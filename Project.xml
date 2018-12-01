@@ -4,6 +4,9 @@
       <option name="XML_TEXT_WRAP" value="0" />
     </XML>
     <codeStyleSettings language="JAVA">
+      <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+      <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
+      <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
       <option name="WRAP_COMMENTS" value="true" />
     </codeStyleSettings>
     <codeStyleSettings language="XML">
