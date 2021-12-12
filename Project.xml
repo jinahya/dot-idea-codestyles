@@ -20,7 +20,6 @@
       <option name="BLANK_LINES_AROUND_FIELD" value="1" />
       <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
       <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-      <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
       <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
       <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
       <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
